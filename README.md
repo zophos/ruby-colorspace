@@ -1,7 +1,8 @@
 # ruby-colorspace
 
-NISHI, Takao <zophos@koka-in.org>
 https://github.com/zophos/ruby-colorspace
+
+NISHI, Takao <zophos@koka-in.org>
 
 
 ## What's this?
@@ -15,6 +16,7 @@ Color space operating library for ruby
 ## Copying
 
 Copyright (c) 2016 NISHI Takao <zophos@koka-in.org> All rights reserved.
+
 This is free software with ABSOLUTELY NO WARRANTY.
 
 You can redistribute it and/or modify it under the terms of Ruby's licence.

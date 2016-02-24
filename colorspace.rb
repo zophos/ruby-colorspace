@@ -5,7 +5,7 @@
 #
 # NISHI Takao <zophos@koka-in.org>
 #
-# Time-stamp: <2016-02-24 16:59:17 zophos>
+# Time-stamp: <2016-02-24 17:16:14 zophos>
 #
 require 'narray'
 
@@ -57,7 +57,7 @@ module ColorSpace
         ].freeze
 
         AdobeRGB=[
-            WhitePoint::D65
+            WhitePoint::D65,
             [0.64,0.33,0.03],
             [0.21,0.71,0.08],
             [0.15,0.06,0.79]
